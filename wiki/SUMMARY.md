@@ -1,3 +1,3 @@
 # Table of contents
 
-* [🏗️ En rédaction...](ACCUEIL.md)
+* [🏗️ En rédaction...](README.md)

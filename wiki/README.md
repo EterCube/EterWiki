@@ -1,3 +1,12 @@
+---
+cover: .gitbook/assets/background@2x.png
+coverY: 0
+---
+
+# 🏗️ En rédaction...
+
+
+
 {% hint style="warning" %}
 Le wiki d'EterCube est encore en cours de rédaction...
 
