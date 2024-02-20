@@ -1,2 +1,6 @@
-# Page
+# 🏗️ En rédaction...
+> [!NOTE]
+> Le wiki d'EterCube est encore en cours de rédaction...
+> Vous pourrez bientôt y retrouver de nombreuses pages, détaillant les nombreuses fonctionnalités, item, etc. d'EterCube 🥳
 
+A bientôt, et bon jeu sur EterCube
