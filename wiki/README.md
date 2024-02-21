@@ -1,8 +1,6 @@
 ---
-description: t
 cover: .gitbook/assets/background@2x.png
 coverY: 0
-layout: landing
 ---
 
 # 🏗️ En rédaction
