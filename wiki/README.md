@@ -7,7 +7,7 @@ coverY: 0
 
 
 
-{% hint style="warning" %}
+{% hint style="info" %}
 Le wiki d'EterCube est encore en cours de rédaction...
 
 Vous pourrez bientôt y retrouver de nombreuses pages, détaillant les nombreuses fonctionnalités, item, etc. d'EterCube 🥳
