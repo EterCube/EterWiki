@@ -19,9 +19,9 @@ layout:
 Sur cette page, nous allons vous expliquer comment rejoindre notre serveur Minecraft.
 
 {% hint style="info" %}
-#### <mark style="color:blue;">**A savoir avant de commencer**</mark>
+#### <mark style="color:blue;">À</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**savoir avant de commencer**</mark>
 
-* <mark style="color:orange;">**Asurez-vous d'avoir Minecraft installé sur votre appareil**</mark>
+* <mark style="color:orange;">**Assurez-vous d'avoir Minecraft installé sur votre appareil**</mark>
 * Le serveur prend en charge les versions Java (Premium et Crack) mais aussi la version Bedrock
 * Nous vous recommandons de vous connecter en 1.19.4 (même si les versions antérieures sont plus ou moins prises en charges)
 {% endhint %}
